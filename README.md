@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/cg5FwpvDmhIcM/giphy.gif" />
 
-I'm a Portuguese 🇵🇹 &nbsp;~~mobile developer~~ ~~fullstack developer~~ ~~frontend developer~~ creative technologist and [Scrum Master](https://www.scrum.org/user/397617), currently based in ~~Brussels~~ ~~Lisboa~~ ~~Porto~~ ~~Zurich~~ Helsinki 🇫🇮 .
+I'm a Portuguese 🇵🇹 &nbsp;~~mobile developer~~ ~~fullstack developer~~ ~~frontend developer~~ creative technologist and [Scrum Master](https://www.credly.com/users/miguelangelo), currently based in ~~Brussels~~ ~~Lisboa~~ ~~Porto~~ ~~Zurich~~ Helsinki 🇫🇮 .
 
 ## Where you can find/reach me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelftangelo/)
